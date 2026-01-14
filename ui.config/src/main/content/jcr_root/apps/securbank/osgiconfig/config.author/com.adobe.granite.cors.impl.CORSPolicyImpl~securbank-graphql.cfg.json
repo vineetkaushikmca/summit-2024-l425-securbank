@@ -4,7 +4,8 @@
   "allowedpaths": [
     "/graphql/execute.json.*",
     "/content/_cq_graphql/securbank/endpoint.json",
-    "/content/experience-fragments/.*"
+    "/content/experience-fragments/.*",
+    "/content/.*"
   ],
   "supportedheaders": [
     "Origin",
