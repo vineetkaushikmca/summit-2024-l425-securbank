@@ -12,6 +12,7 @@
     "Accept",
     "X-Requested-With",
     "Content-Type",
+    "X-Aem-Affinity-Type",
     "Access-Control-Request-Method",
     "Access-Control-Request-Headers",
     "Authorization"
